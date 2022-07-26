@@ -28,7 +28,7 @@ Vivekanand Technologies, is the brain child of two aspiring Indian youngsters wi
 ## Screenshots
 ![home-page](https://user-images.githubusercontent.com/97583616/180161923-6eb141fc-7078-4efc-87d7-74e8969ab9d9.png)
 ![about-us-page](https://user-images.githubusercontent.com/97583616/180162180-a4ea1c6f-4f0f-457b-a347-f8f714ed7a23.png)
-![services-page](https://user-images.githubusercontent.com/97583616/180162368-fb960787-cc6b-4cc6-a519-e425a769f4d9.png)
+![services-page](https://user-images.githubusercontent.com/97583616/180933141-f16394f8-e826-401f-9253-9693cc577d09.png)
 ![careers-page](https://user-images.githubusercontent.com/97583616/180162519-1a82b5be-0020-4c19-8c1f-cd90304ac572.png)
 ![our-culture-page](https://user-images.githubusercontent.com/97583616/180162726-9302b03b-6b49-4d10-b6b9-e45ba8cfa6e9.png)
 ![teams-page-1](https://user-images.githubusercontent.com/97583616/180162895-71d6c59f-898e-4f43-881a-f16f16603560.png)
