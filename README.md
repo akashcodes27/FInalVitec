@@ -1,4 +1,4 @@
-# FInalVitec
+# Vivekanand Technologies
 
 >Vivekanand Technologies Website is a static website which fully responsive and built on HTML5, CSS3, JS and Bootstrap4
 ## Table of Contents
