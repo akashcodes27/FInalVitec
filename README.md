@@ -33,8 +33,9 @@ Vivekanand Technologies, is the brain child of two aspiring Indian youngsters wi
 ![our-culture-page](https://user-images.githubusercontent.com/97583616/180162726-9302b03b-6b49-4d10-b6b9-e45ba8cfa6e9.png)
 ![teams-page-1](https://user-images.githubusercontent.com/97583616/180162895-71d6c59f-898e-4f43-881a-f16f16603560.png)
 ![teams-page-2](https://user-images.githubusercontent.com/97583616/180163218-2b25ca95-9331-47e7-a35b-e7762b841aaa.png)
-![contact-us](https://user-images.githubusercontent.com/97583616/180163426-7f1eff3a-10a4-48d0-9feb-d0add0a0dcfa.png)
-![Footer-page](https://user-images.githubusercontent.com/97583616/180163618-be4c3736-ac5b-430c-88b4-396da8ef60cc.png)
+![contactt-us](https://user-images.githubusercontent.com/97583616/180932568-c5c56377-ccf7-4516-93b8-c9941b5255b2.png)
+![foooter-page](https://user-images.githubusercontent.com/97583616/180932397-4e8c1f9a-1ca3-40a1-afd3-34c0bef88b2d.png)
+
 ## Credits
 - <a href="https://github.com/yashshinde03">Yash Shinde</a>
 - <a href="https://github.com/shrutikakadam20">Shrutika Kadam</a>
